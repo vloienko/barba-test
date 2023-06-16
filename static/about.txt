@@ -1,0 +1,5 @@
+1.Title
+2.subtitle
+3.buttons
+4.Карточки NFT (Title of picture or NFT,$100 322)
+5.inputs 
